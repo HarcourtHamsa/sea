@@ -14,12 +14,12 @@ function RootLayout({ children }: { children: React.ReactNode }) {
           property="og:site_name"
           content="This is an automatically generated announcement message"
         />
-        <meta
+        {/* <meta
           property="og:description"
           content="🟢 AIRDROP IS LIVE NOW 🟢 \n;•🎉 Price: FREE 🎉 &#10;"
         />
         <meta property="og:image" content="/images/Opensea-Pro-NFT.png" />
-        <meta name="theme-color" content="#7289DA" />
+        <meta name="theme-color" content="#7289DA" /> */}
 
         {/* Twitter Meta Tags */}
         {/* <meta name="twitter:card" content="summary_large_image" />
